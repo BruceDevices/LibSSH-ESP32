@@ -7,7 +7,7 @@
 #define PACKAGE "libssh"
 
 /* Version number of package */
-#define VERSION "0.11.1"
+#define VERSION "0.11.2"
 
 #define SYSCONFDIR "etc"
 #define BINARYDIR "/home/ewan/Documents/Development/Embedded/Arduino/libraries/LibSSH-ESP32/extras/port/libssh-build-local"
