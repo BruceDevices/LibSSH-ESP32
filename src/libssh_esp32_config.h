@@ -7,11 +7,9 @@
 #define PACKAGE "libssh"
 
 /* Version number of package */
-#define VERSION "0.11.2"
+#define VERSION "0.11.3"
 
 #define SYSCONFDIR "etc"
-#define BINARYDIR "/home/ewan/Documents/Development/Embedded/Arduino/libraries/LibSSH-ESP32/extras/port/libssh-build-local"
-#define SOURCEDIR "/home/ewan/Documents/Development/Embedded/Arduino/libraries/LibSSH-ESP32/extras/port/libssh-src-upstream"
 
 /* Global bind configuration file path */
 #define GLOBAL_BIND_CONFIG "/etc/ssh/libssh_server_config"
