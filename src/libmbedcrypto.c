@@ -897,7 +897,7 @@ none_crypt(UNUSED_PARAM(struct ssh_cipher_struct *cipher),
 }
 #endif /* WITH_INSECURE_NONE */
 
-static struct ssh_cipher_struct ssh_ciphertab[] = {
+static const struct ssh_cipher_struct ssh_ciphertab[] = {
 #ifdef HAVE_BLOWFISH
     {
         .name = "blowfish-cbc",
